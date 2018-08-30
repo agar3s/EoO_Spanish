@@ -16,8 +16,8 @@ Video File: ../Ecstasy_of_Order_540p.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 972
-Active Line: 995
+Scroll Position: 84
+Active Line: 120
 Video Position: 91454
 
 [V4+ Styles]
@@ -26,76 +26,76 @@ Style: Default,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:01.00,0:00:04.50,Default,Unspoken Text,0,0,0,,A Reclusion Films Production
-Comment: 0,0:00:11.50,0:00:16.00,Default,Unspoken Text,0,0,0,,Executive Producers
-Comment: 0,0:00:19.40,0:00:22.90,Default,Unspoken Text,0,0,0,,Associate Producers
-Comment: 0,0:00:27.00,0:00:30.25,Default,Unspoken Text,0,0,0,,Produced By
-Comment: 0,0:00:32.00,0:00:35.50,Default,Unspoken Text,0,0,0,,Director of Photography
-Comment: 0,0:00:37.00,0:00:40.00,Default,Unspoken Text,0,0,0,,Original Score
-Comment: 0,0:00:42.00,0:00:45.00,Default,Unspoken Text,0,0,0,,Additional Music
-Comment: 0,0:00:54.50,0:00:59.00,Default,Unspoken Text,0,0,0,,Directed and Edited By
-Comment: 0,0:01:01.00,0:01:06.70,Default,Unspoken Text,0,0,0,,Ecstasy of Order
-Comment: 0,0:01:03.70,0:01:06.70,Default,Unspoken Text,0,0,0,,The Tetris Masters
-Comment: 0,0:03:34.00,0:03:38.00,Default,Unspoken Text,0,0,0,,YOU ARE A TETRIS MASTER.
-Comment: 0,0:03:47.50,0:03:52.50,Default,Unspoken Text,0,0,0,,Midwest Gaming Classic: "The Midwest's Largest All-Encompassing Electronic Gaming Event!"
-Comment: 0,0:03:48.80,0:03:52.80,Default,Unspoken Text,0,0,0,,A small Tetris tournament in Milwaukee, Wisconsin.
-Comment: 0,0:03:54.00,0:04:00.50,Default,Unspoken Text,0,0,0,,Ben Mullen / World Record Holder / Most Lines (296)
-Comment: 0,0:04:25.00,0:04:28.25,Default,Unspoken Text,0,0,0,,Another small Tetris tournament in Portland, Oregon.
-Comment: 0,0:04:30.00,0:04:35.73,Default,Unspoken Text,0,0,0,,Robin Mihara / Tetris Tournament Organizer
-Comment: 0,0:06:15.80,0:06:20.80,Default,Unspoken Text,0,0,0,,The Portland Retro Gaming Expo
-Comment: 0,0:06:44.50,0:06:47.00,Default,Unspoken Text,0,0,0,,John McAllister / Asteroids World Champion
-Comment: 0,0:06:57.80,0:07:00.80,Default,Unspoken Text,0,0,0,,Alexey Pajitnov / Tetris Creator
-Comment: 0,0:07:32.00,0:07:36.50,Default,Unspoken Text,0,0,0,,Henk Rogers / CEO, The Tetris Company
-Comment: 0,0:10:18.00,0:10:21.00,Default,Unspoken Text,0,0,0,,Drought Count:
-Comment: 0,0:10:51.80,0:10:54.80,Default,Unspoken Text,0,0,0,,Portland, Oregon
-Comment: 0,0:11:12.13,0:11:16.63,Default,Unspoken Text,0,0,0,,Twin Galaxies / The Official Electronic Scoreboard / Since 1981 The worldwide Authority on Player Ranking
-Comment: 0,0:11:30.00,0:11:37.50,Default,Unspoken Text,0,0,0,,Kelly Flewin / Twin Galaxies NES Referee
-Comment: 0,0:11:51.00,0:11:54.00,Default,Unspoken Text,0,0,0,,Oakland, California
-Comment: 0,0:11:58.00,0:12:05.50,Default,Unspoken Text,0,0,0,,Dana Wilcox / 4th All-Time / Most Points (722,065)
-Comment: 0,0:13:05.80,0:13:08.80,Default,Unspoken Text,0,0,0,,Sherman Oaks, California
-Comment: 0,0:13:10.00,0:13:17.25,Default,Unspoken Text,0,0,0,,Jesse Kelkar / 2nd All-Time / Most Lines (291)
-Comment: 0,0:14:05.00,0:14:10.50,Default,Unspoken Text,0,0,0,,Video Game World Champion / Jesse Kelkar
-Comment: 0,0:14:31.00,0:14:34.00,Default,Unspoken Text,0,0,0,,Minneapolis, Minnesota
-Comment: 0,0:14:35.00,0:14:41.50,Default,Unspoken Text,0,0,0,,Ben Mullen / World Record Holder / Most Lines (296)
-Comment: 0,0:15:40.50,0:15:43.50,Default,Unspoken Text,0,0,0,,Los Angeles, California
-Comment: 0,0:15:43.80,0:15:48.80,Default,Unspoken Text,0,0,0,,Harry Hong / Co-World Record Holder / Most Points (999,999)
-Comment: 0,0:18:06.00,0:18:14.00,Default,Unspoken Text,0,0,0,,I WANT TO BELIEVE
-Comment: 0,0:18:22.50,0:18:30.00,Default,Unspoken Text,0,0,0,,Jonas Neubauer / Co-World Record Holder / Most Points (999,999)
-Comment: 0,0:19:45.25,0:19:53.00,Default,Unspoken Text,0,0,0,,Aaron Wright / Jonas's Friend
-Comment: 0,0:21:31.96,0:21:35.33,Default,Unspoken Text,0,0,0,,Max-Out / 999,999
-Comment: 0,0:23:20.75,0:23:25.25,Default,Unspoken Text,0,0,0,,Trey Harrison / Former NWC Competitor
-Comment: 0,0:23:27.00,0:23:30.20,Default,Unspoken Text,0,0,0,,Thor / Trey
-Comment: 0,0:24:25.26,0:24:28.00,Default,Unspoken Text,0,0,0,,Chris Tang / Multi-Platform / Gaming Champion
-Comment: 0,0:24:29.00,0:24:32.38,Default,Unspoken Text,0,0,0,,Thor at the 1992 Consumer Electronics Show
-Comment: 0,0:24:33.50,0:24:36.50,Default,Unspoken Text,0,0,0,,The Master Gamer
-Comment: 0,0:25:18.72,0:25:20.70,Default,Unspoken Text,0,0,0,,"Micro Machines" Racing Game / ...different Micro Machines (from sports cars to...
-Comment: 0,0:25:21.00,0:25:29.00,Default,Unspoken Text,0,0,0,,Thor Aackerlund / Nintendo World Champ
-Comment: 0,0:25:41.63,0:25:45.75,Default,Unspoken Text,0,0,0,,42 days until the tournament.
-Comment: 0,0:31:15.00,0:31:18.00,Default,Unspoken Text,0,0,0,,Redondo Beach, California
-Comment: 0,0:31:18.09,0:31:22.21,Default,Unspoken Text,0,0,0,,1st Los Angeles Mortgage Corporation
-Comment: 0,0:34:38.75,0:34:42.08,Default,Unspoken Text,0,0,0,,21 days until the tournament.
-Comment: 0,0:35:48.40,0:35:55.60,Default,Unspoken Text,0,0,0,,Chris Tang / Former Dance Dance Revolution Champion / Former Street Fighter II Champion / Los Angeles Nintendo World Champion / Sega World Champion
-Comment: 0,0:36:13.42,0:36:19.63,Default,Unspoken Text,0,0,0,,Robin and Chris at the Nintendo World Championships
-Comment: 0,0:37:20.45,0:37:28.37,Default,Unspoken Text,0,0,0,,Robin defeating Chris at the Oakland NWC.
-Comment: 0,0:37:29.70,0:37:33.87,Default,Unspoken Text,0,0,0,,(on phone with Thor)
-Comment: 0,0:44:51.50,0:44:57.50,Default,Unspoken Text,0,0,0,,In 2002, computer scientists at MIT proved that Tetris was an NP-complete problem.
-Comment: 0,0:44:58.50,0:45:03.00,Default,Unspoken Text,0,0,0,,Translation: A computer cannot be programmed to find the perfect moves during a game of Tetris.
-Comment: 0,0:46:04.10,0:46:18.10,Default,Unspoken Text,0,0,0,,Alex's Grand Master game / Tetris: The Grand Master 2
-Comment: 0,0:50:49.05,0:50:52.59,Default,Unspoken Text,0,0,0,,7 days until the tournament.
-Comment: 0,0:59:55.70,0:59:58.70,Default,Unspoken Text,0,0,0,,Robin has invited the Tetris Masters to meet up in Laguna Beach.
-Comment: 0,0:59:59.00,1:00:01.47,Default,Unspoken Text,0,0,0,,For most of them, it is their first time meeting in person.
-Comment: 0,1:00:49.85,1:00:53.35,Default,Unspoken Text,0,0,0,,Dain Anderson / Founder, NintendoAge.com
-Comment: 0,1:08:20.30,1:08:24.22,Default,Unspoken Text,0,0,0,,1:42 PM / Eighteen minutes left to qualify.
-Comment: 0,1:08:40.00,1:08:46.00,Default,Unspoken Text,0,0,0,,Dana is one Tetris away from a perfect seven.
-Comment: 0,1:09:26.20,1:09:29.03,Default,Unspoken Text,0,0,0,,One Tetris away from perfect.
-Comment: 0,1:09:29.08,1:09:32.00,Default,Unspoken Text,0,0,0,,With one line left to go.
-Comment: 0,1:09:50.50,1:09:54.69,Default,Unspoken Text,0,0,0,,Pepito Pea / Dana's Acupuncturist
-Comment: 0,1:28:21.50,1:28:24.00,Default,Unspoken Text,0,0,0,,A few months later...
-Comment: 0,1:30:07.77,1:30:10.48,Default,Unspoken Text,0,0,0,,Level 29.
-Comment: 0,1:30:10.53,1:30:14.11,Default,Unspoken Text,0,0,0,,Level 30.
-Comment: 0,1:30:48.00,1:30:55.00,Default,Unspoken Text,0,0,0,,You are a Tetris master.
+Dialogue: 0,0:00:01.00,0:00:04.50,Default,Unspoken Text,0,0,0,,Una Producción de Reclusion Films
+Dialogue: 0,0:00:11.50,0:00:16.00,Default,Unspoken Text,0,0,0,,Executive Producers
+Dialogue: 0,0:00:19.40,0:00:22.90,Default,Unspoken Text,0,0,0,,Associate Producers
+Dialogue: 0,0:00:27.00,0:00:30.25,Default,Unspoken Text,0,0,0,,Produced By
+Dialogue: 0,0:00:32.00,0:00:35.50,Default,Unspoken Text,0,0,0,,Director de Fotografía
+Dialogue: 0,0:00:37.00,0:00:40.00,Default,Unspoken Text,0,0,0,,Original Score
+Dialogue: 0,0:00:42.00,0:00:45.00,Default,Unspoken Text,0,0,0,,Additional Music
+Dialogue: 0,0:00:54.50,0:00:59.00,Default,Unspoken Text,0,0,0,,Directed and Edited By
+Dialogue: 0,0:01:01.00,0:01:06.70,Default,Unspoken Text,0,0,0,,Éxtasis del Orden
+Dialogue: 0,0:01:03.70,0:01:06.70,Default,Unspoken Text,0,0,0,,Los Maestros de Tetris
+Dialogue: 0,0:03:34.00,0:03:38.00,Default,Unspoken Text,0,0,0,,YOU ARE A TETRIS MASTER.
+Dialogue: 0,0:03:47.50,0:03:52.50,Default,Unspoken Text,0,0,0,,Midwest Gaming Classic: "The Midwest's Largest All-Encompassing Electronic Gaming Event!"
+Dialogue: 0,0:03:48.80,0:03:52.80,Default,Unspoken Text,0,0,0,,Un pequeño torneo de Tetris en Milwaukee, Wisconsin
+Dialogue: 0,0:03:54.00,0:04:00.50,Default,Unspoken Text,0,0,0,,Ben Mullen / World Record Holder / Most Lines (296)
+Dialogue: 0,0:04:25.00,0:04:28.25,Default,Unspoken Text,0,0,0,,Otro pequeño torneo de Tetris en Portland, Oregon.
+Dialogue: 0,0:04:30.00,0:04:35.73,Default,Unspoken Text,0,0,0,,Robin Mihara / Organizador Torneo de Tetris
+Dialogue: 0,0:06:15.80,0:06:20.80,Default,Unspoken Text,0,0,0,,The Portland Retro Gaming Expo
+Dialogue: 0,0:06:44.50,0:06:47.00,Default,Unspoken Text,0,0,0,,John McAllister / Campeon Mundial de Asteroids
+Dialogue: 0,0:06:57.80,0:07:00.80,Default,Unspoken Text,0,0,0,,Alexey Pajitnov / Creador de Tetris
+Dialogue: 0,0:07:32.00,0:07:36.50,Default,Unspoken Text,0,0,0,,Henk Rogers / CEO, The Tetris Company
+Dialogue: 0,0:10:18.00,0:10:21.00,Default,Unspoken Text,0,0,0,,Drought Count:
+Dialogue: 0,0:10:51.80,0:10:54.80,Default,Unspoken Text,0,0,0,,Portland, Oregon
+Dialogue: 0,0:11:12.13,0:11:16.63,Default,Unspoken Text,0,0,0,,Twin Galaxies / The Official Electronic Scoreboard / Since 1981 The worldwide Authority on Player Ranking
+Dialogue: 0,0:11:30.00,0:11:37.50,Default,Unspoken Text,0,0,0,,Kelly Flewin / Twin Galaxies NES Referee
+Dialogue: 0,0:11:51.00,0:11:54.00,Default,Unspoken Text,0,0,0,,Oakland, California
+Dialogue: 0,0:11:58.00,0:12:05.50,Default,Unspoken Text,0,0,0,,Dana Wilcox / 4th All-Time / Most Points (722,065)
+Dialogue: 0,0:13:05.80,0:13:08.80,Default,Unspoken Text,0,0,0,,Sherman Oaks, California
+Dialogue: 0,0:13:10.00,0:13:17.25,Default,Unspoken Text,0,0,0,,Jesse Kelkar / 2nd All-Time / Most Lines (291)
+Dialogue: 0,0:14:05.00,0:14:10.50,Default,Unspoken Text,0,0,0,,Video Game World Champion / Jesse Kelkar
+Dialogue: 0,0:14:31.00,0:14:34.00,Default,Unspoken Text,0,0,0,,Minneapolis, Minnesota
+Dialogue: 0,0:14:35.00,0:14:41.50,Default,Unspoken Text,0,0,0,,Ben Mullen / World Record Holder / Most Lines (296)
+Dialogue: 0,0:15:40.50,0:15:43.50,Default,Unspoken Text,0,0,0,,Los Angeles, California
+Dialogue: 0,0:15:43.80,0:15:48.80,Default,Unspoken Text,0,0,0,,Harry Hong / Co-World Record Holder / Most Points (999,999)
+Dialogue: 0,0:18:06.00,0:18:14.00,Default,Unspoken Text,0,0,0,,QUIERO CREER
+Dialogue: 0,0:18:22.50,0:18:30.00,Default,Unspoken Text,0,0,0,,Jonas Neubauer / Co-World Record Holder / Most Points (999,999)
+Dialogue: 0,0:19:45.25,0:19:53.00,Default,Unspoken Text,0,0,0,,Aaron Wright / Amigo de Jonas
+Dialogue: 0,0:21:31.96,0:21:35.33,Default,Unspoken Text,0,0,0,,Max-Out / 999,999
+Dialogue: 0,0:23:20.75,0:23:25.25,Default,Unspoken Text,0,0,0,,Trey Harrison / Former NWC Competitor
+Dialogue: 0,0:23:27.00,0:23:30.20,Default,Unspoken Text,0,0,0,,Thor / Trey
+Dialogue: 0,0:24:25.26,0:24:28.00,Default,Unspoken Text,0,0,0,,Chris Tang / Multi-Platform / Gaming Champion
+Dialogue: 0,0:24:29.00,0:24:32.38,Default,Unspoken Text,0,0,0,,Thor at the 1992 Consumer Electronics Show
+Dialogue: 0,0:24:33.50,0:24:36.50,Default,Unspoken Text,0,0,0,,The Master Gamer
+Dialogue: 0,0:25:18.72,0:25:20.70,Default,Unspoken Text,0,0,0,,"Micro Machines" Racing Game / ...different Micro Machines (from sports cars to...
+Dialogue: 0,0:25:21.00,0:25:29.00,Default,Unspoken Text,0,0,0,,Thor Aackerlund / Campeón Mundial de Nintendo
+Dialogue: 0,0:25:41.63,0:25:45.75,Default,Unspoken Text,0,0,0,,42 days until the tournament.
+Dialogue: 0,0:31:15.00,0:31:18.00,Default,Unspoken Text,0,0,0,,Redondo Beach, California
+Dialogue: 0,0:31:18.09,0:31:22.21,Default,Unspoken Text,0,0,0,,1st Los Angeles Mortgage Corporation
+Dialogue: 0,0:34:38.75,0:34:42.08,Default,Unspoken Text,0,0,0,,21 días para el torneo.
+Dialogue: 0,0:35:48.40,0:35:55.60,Default,Unspoken Text,0,0,0,,Chris Tang / Former Dance Dance Revolution Champion / Former Street Fighter II Champion / Los Angeles Nintendo World Champion / Sega World Champion
+Dialogue: 0,0:36:13.42,0:36:19.63,Default,Unspoken Text,0,0,0,,Robin and Chris at the Nintendo World Championships
+Dialogue: 0,0:37:20.45,0:37:28.37,Default,Unspoken Text,0,0,0,,Robin defeating Chris at the Oakland NWC.
+Dialogue: 0,0:37:29.70,0:37:33.87,Default,Unspoken Text,0,0,0,,(al teléfono con Thor)
+Dialogue: 0,0:44:51.50,0:44:57.50,Default,Unspoken Text,0,0,0,,In 2002, computer scientists at MIT proved that Tetris was an NP-complete problem.
+Dialogue: 0,0:44:58.50,0:45:03.00,Default,Unspoken Text,0,0,0,,Translation: A computer cannot be programmed to find the perfect moves during a game of Tetris.
+Dialogue: 0,0:46:04.10,0:46:18.10,Default,Unspoken Text,0,0,0,,Alex's Grand Master game / Tetris: The Grand Master 2
+Dialogue: 0,0:50:49.05,0:50:52.59,Default,Unspoken Text,0,0,0,,7 días para el torneo.
+Dialogue: 0,0:59:55.70,0:59:58.70,Default,Unspoken Text,0,0,0,,Robin has invited the Tetris Masters to meet up in Laguna Beach.
+Dialogue: 0,0:59:59.00,1:00:01.47,Default,Unspoken Text,0,0,0,,For most of them, it is their first time meeting in person.
+Dialogue: 0,1:00:49.85,1:00:53.35,Default,Unspoken Text,0,0,0,,Dain Anderson / Founder, NintendoAge.com
+Dialogue: 0,1:08:20.30,1:08:24.22,Default,Unspoken Text,0,0,0,,1:42 PM / Eighteen minutes left to qualify.
+Dialogue: 0,1:08:40.00,1:08:46.00,Default,Unspoken Text,0,0,0,,Dana is one Tetris away from a perfect seven.
+Dialogue: 0,1:09:26.20,1:09:29.03,Default,Unspoken Text,0,0,0,,One Tetris away from perfect.
+Dialogue: 0,1:09:29.08,1:09:32.00,Default,Unspoken Text,0,0,0,,With one line left to go.
+Dialogue: 0,1:09:50.50,1:09:54.69,Default,Unspoken Text,0,0,0,,Pepito Pea / Acupunturista de Dana
+Dialogue: 0,1:28:21.50,1:28:24.00,Default,Unspoken Text,0,0,0,,A few months later...
+Dialogue: 0,1:30:07.77,1:30:10.48,Default,Unspoken Text,0,0,0,,Nivel 29.
+Dialogue: 0,1:30:10.53,1:30:14.11,Default,Unspoken Text,0,0,0,,Nivel 30.
+Dialogue: 0,1:30:48.00,1:30:55.00,Default,Unspoken Text,0,0,0,,Tu eres un maestro del Tetris
 Dialogue: 0,0:01:23.69,0:01:27.76,Default,,0,0,0,,It is estimated that two out of every three Americans have played Tetris.
-Dialogue: 0,0:01:32.36,0:01:34.75,Default,,0,0,0,,Tetris is a game of skill.
+Dialogue: 0,0:01:32.36,0:01:34.75,Default,,0,0,0,,Tetris es un juego de habilidad
 Dialogue: 0,0:01:37.77,0:01:41.26,Default,,0,0,0,,Seven blocks of different shapes descend from the top of the screen.
 Dialogue: 0,0:01:42.93,0:01:46.42,Default,,0,0,0,,The player must arrange them to form and clear horizontal lines.
 Dialogue: 0,0:01:48.22,0:01:50.97,Default,,0,0,0,,Success is measured by the number of lines cleared,
@@ -110,7 +110,7 @@ Dialogue: 0,0:02:34.13,0:02:40.70,Default,,0,0,0,,In 1989, Nintendo released Tet
 Dialogue: 0,0:02:40.70,0:02:45.10,Default,,0,0,0,,selling nearly 40 million copies, and bringing the game to the masses.
 Dialogue: 0,0:02:47.20,0:02:53.95,Default,,0,0,0,,In 1990, Nintendo chose Tetris as the central game in the largest video game tournament the world had ever seen,
 Dialogue: 0,0:02:54.52,0:02:56.60,Default,,0,0,0,,the Nintendo World Championships.
-Dialogue: 0,0:03:00.57,0:03:03.86,Default,,0,0,0,,A 14-year-old boy from Texas named Thor won.
+Dialogue: 0,0:03:00.57,0:03:03.86,Default,,0,0,0,,Un niño de Texas de 14 años llamado Thor ganó.
 Dialogue: 0,0:03:14.86,0:03:18.62,Default,,0,0,0,,Nintendo's Tetris came to be viewed as the definitive version of the game,
 Dialogue: 0,0:03:20.97,0:03:25.02,Default,,0,0,0,,its secrets and mysteries fascinating the best players in the decades to come.
 Dialogue: 0,0:03:29.64,0:03:33.26,Default,,0,0,0,,Every successful game ends with the same message to the player.
@@ -128,7 +128,7 @@ Dialogue: 0,0:04:27.82,0:04:31.92,Default,,0,0,0,,...top eight, we're moving to 
 Dialogue: 0,0:04:31.92,0:04:35.79,Default,,0,0,0,,and every time you get a tetris, it sends garbage to the other person.
 Dialogue: 0,0:04:38.66,0:04:43.79,Default,,0,0,0,,*gasp* What just happened!
 Dialogue: 0,0:04:38.66,0:04:43.79,Default,,0,0,0,,- Ooh, the most painful misdrop in Ashley's life!
-Dialogue: 0,0:04:43.79,0:04:45.39,Default,,0,0,0,,Let's see if she can survive!
+Dialogue: 0,0:04:43.79,0:04:45.39,Default,,0,0,0,,Veamos si puede sobrevivir!
 Dialogue: 0,0:04:45.87,0:04:49.94,Default,,0,0,0,,Ohh... I'm sorry. Tetris is not fair, folks.
 Dialogue: 0,0:04:51.90,0:04:53.15,Default,,0,0,0,,I've got to get it together.
 Dialogue: 0,0:04:53.15,0:04:57.02,Default,,0,0,0,,I'm still in it, by a little. Just a... frickin' hair's breadth.
@@ -140,7 +140,7 @@ Dialogue: 0,0:05:32.96,0:05:36.13,Default,,0,0,0,,in a tournament, somewhere, an
 Dialogue: 0,0:05:36.13,0:05:37.53,Default,,0,0,0,,It's all about Tetris!
 Dialogue: 0,0:05:42.89,0:05:44.82,Default,,0,0,0,,It goes a lot faster than that, if you're really good.
 Dialogue: 0,0:05:49.70,0:05:51.53,Default,,0,0,0,,We have a new low!
-Dialogue: 0,0:05:51.53,0:05:53.07,Default,,0,0,0,,53 points!
+Dialogue: 0,0:05:51.53,0:05:53.07,Default,,0,0,0,,53 puntos!
 Dialogue: 0,0:05:55.29,0:05:58.04,Default,,0,0,0,,She came in and asked for a glass of blood.
 Dialogue: 0,0:05:58.04,0:06:01.53,Default,,0,0,0,,Malin clears a little space, gets ready for her long bar...
 Dialogue: 0,0:06:01.53,0:06:03.41,Default,,0,0,0,,Tetris! Look at this comeback.
@@ -165,11 +165,11 @@ Dialogue: 0,0:06:47.06,0:06:50.92,Default,,0,0,0,,and I decided to find the best
 Dialogue: 0,0:06:50.92,0:06:54.28,Default,,0,0,0,,It's the only video game that can be described as perfect, right?
 Dialogue: 0,0:06:54.28,0:06:55.62,Default,,0,0,0,,Because, how would you improve it?
 Dialogue: 0,0:06:55.62,0:06:57.46,Default,,0,0,0,,What, add a shape? Take away a shape?
-Comment: 0,0:06:57.46,0:07:03.96,Default,,0,0,0,,The shapes in the games are called tetraminoes.
-Comment: 0,0:07:03.96,0:07:09.31,Default,,0,0,0,,It comes from Greece, Tetra means four in Greece... four.
-Comment: 0,0:07:10.11,0:07:18.20,Default,,0,0,0,,Board game which kind of was the inspiration of my game was the puzzle called pentaminoes.
-Comment: 0,0:07:18.20,0:07:22.92,Default,,0,0,0,,You know that chess is, or used to be Olympic sport.
-Comment: 0,0:07:22.92,0:07:30.67,Default,,0,0,0,,So, it's ok for mental activity to be a matter of sportive competition.
+Dialogue: 0,0:06:57.46,0:07:03.96,Default,,0,0,0,,The shapes in the games are called tetraminoes.
+Dialogue: 0,0:07:03.96,0:07:09.31,Default,,0,0,0,,It comes from Greece, Tetra means four in Greece... four.
+Dialogue: 0,0:07:10.11,0:07:18.20,Default,,0,0,0,,Board game which kind of was the inspiration of my game was the puzzle called pentaminoes.
+Dialogue: 0,0:07:18.20,0:07:22.92,Default,,0,0,0,,You know that chess is, or used to be Olympic sport.
+Dialogue: 0,0:07:22.92,0:07:30.67,Default,,0,0,0,,So, it's ok for mental activity to be a matter of sportive competition.
 Dialogue: 0,0:07:30.67,0:07:35.19,Default,,0,0,0,,I believe that Tetris may well be the first virtual sport.
 Dialogue: 0,0:07:36.76,0:07:42.33,Default,,0,0,0,,If I was going to practice to be the smartest or the fastest thinker in the world,
 Dialogue: 0,0:07:42.69,0:07:44.33,Default,,0,0,0,,would I play football?
@@ -213,7 +213,7 @@ Dialogue: 0,0:10:06.76,0:10:10.18,Default,,0,0,0,,A long bar drought is the most
 Dialogue: 0,0:10:13.01,0:10:15.36,Default,,0,0,0,,Robin is about to experience a drought.
 Dialogue: 0,0:10:21.77,0:10:26.11,Default,,0,0,0,,To survive the drought Robin is forced to start burning lines off the top of his wall.
 Dialogue: 0,0:10:43.91,0:10:45.14,Default,,0,0,0,,That was a drought.
-Comment: 0,0:10:45.14,0:10:48.68,Default,,0,0,0,,A long bar drought of 40 pieces is deadly to the average player.
+Dialogue: 0,0:10:45.14,0:10:48.68,Default,,0,0,0,,A long bar drought of 40 pieces is deadly to the average player.
 Dialogue: 0,0:10:55.02,0:11:00.10,Default,,0,0,0,,I think I've narrowed down what I consider to be the top Tetris players in the world.
 Dialogue: 0,0:11:01.77,0:11:07.89,Default,,0,0,0,,This is where they live and I've decided that I'm going to hold a massive contest,
 Dialogue: 0,0:11:07.89,0:11:12.12,Default,,0,0,0,,invite them all and come out of there knowing who the best Tetris player in the world is.
@@ -350,7 +350,7 @@ Dialogue: 0,0:20:53.34,0:20:58.00,Default,,0,0,0,,I absolutely had to find out: 
 Dialogue: 0,0:20:58.00,0:20:59.90,Default,,0,0,0,,Does it just keep going on forever?
 Dialogue: 0,0:20:59.90,0:21:02.56,Default,,0,0,0,,There are two known strategies to reach level 30.
 Dialogue: 0,0:21:03.08,0:21:10.07,Default,,0,0,0,,The first is to prepare a center well at the end of level 28, elimnating the need for pieces to reach the sides.
-Comment: 0,0:21:11.97,0:21:16.84,Default,,0,0,0,,The second is to accelerate the movements of the pieces by rapidly vibrating the left thumb.
+Dialogue: 0,0:21:11.97,0:21:16.84,Default,,0,0,0,,The second is to accelerate the movements of the pieces by rapidly vibrating the left thumb.
 Dialogue: 0,0:21:17.76,0:21:22.51,Default,,0,0,0,,The big question is whether or not Thor is going to participate.
 Dialogue: 0,0:21:22.51,0:21:28.32,Default,,0,0,0,,He has claimed to get past the death-screen of level 29 into 30.
 Dialogue: 0,0:21:28.32,0:21:31.93,Default,,0,0,0,,Which is very hard to believe, once you've seen the speed of 29.
@@ -457,7 +457,7 @@ Dialogue: 0,0:28:39.12,0:28:41.42,Default,,0,0,0,,Well, it's probably 'cause he 
 Dialogue: 0,0:28:41.42,0:28:42.28,Default,,0,0,0,,Yeah.
 Dialogue: 0,0:28:42.28,0:28:48.10,Default,,0,0,0,,Doesn't he loop something? I remember seeing...
 Dialogue: 0,0:28:42.28,0:28:48.10,Default,,0,0,0,,- Yeah, he like plays through his T-shirt or a T-shirt, like this...
-Comment: 0,0:28:47.08,0:28:48.10,Default,,0,0,0,,Right.
+Dialogue: 0,0:28:47.08,0:28:48.10,Default,,0,0,0,,Right.
 Dialogue: 0,0:28:48.10,0:28:54.26,Default,,0,0,0,,I use a shirt on my left hand 'cause the d-pad it's... too stiff, I mean, too rough
 Dialogue: 0,0:28:54.26,0:28:58.90,Default,,0,0,0,,He loops his thumb through... something.
 Dialogue: 0,0:28:54.26,0:28:58.90,Default,,0,0,0,,- Which I tried by the way, after I saw that because, like, "What is he doing?!"
@@ -507,9 +507,9 @@ Dialogue: 0,0:31:05.70,0:31:06.90,Default,,0,0,0,,What's your version?
 Dialogue: 0,0:31:06.90,0:31:08.30,Default,,0,0,0,,That you don't stop.
 Dialogue: 0,0:31:08.30,0:31:13.00,Default,Dana; Brooke,0,0,0,,That I just keep playing until the crack of dawn?
 Dialogue: 0,0:31:08.30,0:31:13.00,Default,Dana; Brooke,0,0,0,,- You say "one more game." And it's always "one more game."
-Comment: 0,0:31:08.30,0:31:12.14,Default,,0,0,0,,That I just keep playing until the crack of dawn?
-Comment: 0,0:31:08.30,0:31:09.80,Default,,0,0,0,,- You say "one more game."
-Comment: 0,0:31:10.18,0:31:12.76,Default,,0,0,0,,And it's always "one more game."
+Dialogue: 0,0:31:08.30,0:31:12.14,Default,,0,0,0,,That I just keep playing until the crack of dawn?
+Dialogue: 0,0:31:08.30,0:31:09.80,Default,,0,0,0,,- You say "one more game."
+Dialogue: 0,0:31:10.18,0:31:12.76,Default,,0,0,0,,And it's always "one more game."
 Dialogue: 0,0:31:18.04,0:31:22.22,Default,,0,0,0,,We're actually a mortgage banker, which means that we fund our own loans
 Dialogue: 0,0:31:22.22,0:31:26.54,Default,,0,0,0,,My real talent is business card throwing. I have one stuck in the ceiling
 Dialogue: 0,0:31:26.54,0:31:29.98,Default,,0,0,0,,I don't know why but I have like this kind of ritual things I do
@@ -557,12 +557,12 @@ Dialogue: 0,0:33:53.16,0:33:55.32,Default,,0,0,0,,which, along with the piece in
 Dialogue: 0,0:33:56.04,0:34:00.04,Default,,0,0,0,,allows for over 500 possible combinations of moves at any given moment.
 Dialogue: 0,0:34:01.90,0:34:05.04,Default,,0,0,0,,There are always many bad moves and very few good ones.
 Dialogue: 0,0:34:05.90,0:34:09.94,Default,,0,0,0,,Limited to a single piece preview the perfect moves are unknowable.
-Comment: 0,0:34:11.36,0:34:13.50,Default,,0,0,0,,The master has an agile mind,
-Comment: 0,0:34:15.06,0:34:16.88,Default,,0,0,0,,rejects the notion of bad luck,
-Comment: 0,0:34:18.64,0:34:20.68,Default,,0,0,0,,welcomes the piece that does not fit,
-Comment: 0,0:34:22.16,0:34:23.94,Default,,0,0,0,,takes calculated risks,
-Comment: 0,0:34:24.76,0:34:26.14,Default,,0,0,0,,never gambles,
-Comment: 0,0:34:27.32,0:34:29.42,Default,,0,0,0,,remains calm in the face of death.
+Dialogue: 0,0:34:11.36,0:34:13.50,Default,,0,0,0,,The master has an agile mind,
+Dialogue: 0,0:34:15.06,0:34:16.88,Default,,0,0,0,,rejects the notion of bad luck,
+Dialogue: 0,0:34:18.64,0:34:20.68,Default,,0,0,0,,welcomes the piece that does not fit,
+Dialogue: 0,0:34:22.16,0:34:23.94,Default,,0,0,0,,takes calculated risks,
+Dialogue: 0,0:34:24.76,0:34:26.14,Default,,0,0,0,,never gambles,
+Dialogue: 0,0:34:27.32,0:34:29.42,Default,,0,0,0,,remains calm in the face of death.
 Dialogue: 0,0:34:30.62,0:34:34.60,Default,,0,0,0,,The one trick to training Tetris is to be always almost dead.
 Dialogue: 0,0:34:36.20,0:34:38.70,Default,,0,0,0,,If you're almost dead, you're probably training.
 Dialogue: 0,0:34:44.24,0:34:46.70,Default,,0,0,0,,Robin is about to head south to Los Angeles
@@ -655,7 +655,7 @@ Dialogue: 0,0:39:57.06,0:39:59.06,Default,,0,0,0,,- Like, you create a hole and 
 Dialogue: 0,0:39:59.06,0:40:01.86,Default,,0,0,0,,It's just a - you think of it as a combination.
 Dialogue: 0,0:40:05.38,0:40:07.94,Default,,0,0,0,,I noticed for your record game you're stacking on this side.
 Dialogue: 0,0:40:07.94,0:40:14.22,Default,,0,0,0,,Yeah. I don't know, for some reason I usually score higher on average when I stack to the right.
-Comment: 0,0:40:24.26,0:40:25.34,Default,,0,0,0,,Oh shit.
+Dialogue: 0,0:40:24.26,0:40:25.34,Default,,0,0,0,,Oh shit.
 Dialogue: 0,0:40:43.48,0:40:44.58,Default,,0,0,0,,Nice.
 Dialogue: 0,0:40:50.62,0:40:53.40,Default,,0,0,0,,Phew, that's it.
 Dialogue: 0,0:40:53.40,0:40:55.70,Default,,0,0,0,,You're a one-button player!
@@ -737,11 +737,11 @@ Dialogue: 0,0:46:43.94,0:46:49.52,Default,,0,0,0,,The basic thing you gotta do w
 Dialogue: 0,0:46:49.52,0:46:51.60,Default,,0,0,0,,You'll fail, because it's fast.
 Dialogue: 0,0:46:51.60,0:46:59.02,Default,,0,0,0,,In NES Tetris or Nintendo Tetris the speed plateaus for 10 levels at a speed that seems
 Dialogue: 0,0:46:59.02,0:47:04.14,Default,,0,0,0,,impossible to most players. One split second of extra thought is equal to your death.
-Comment: 0,0:47:06.15,0:47:09.23,Default,,0,0,0,,At Level 19, the game reaches a punishing speed.
-Comment: 0,0:47:10.21,0:47:13.39,Default,,0,0,0,,The pieces begin to fall as though the player were constantly pushing down,
-Comment: 0,0:47:14.66,0:47:17.63,Default,,0,0,0,,taking less than 2/3 of a second to reach the bottom.
-Comment: 0,0:47:19.10,0:47:23.67,Default,,0,0,0,,The Tetris Master can only survive by taking control of the piece during its brief entry delay:
-Comment: 0,0:47:24.57,0:47:28.87,Default,,0,0,0,,...the 1/6 of a second between one piece landing and the next appearing at the top.
+Dialogue: 0,0:47:06.15,0:47:09.23,Default,,0,0,0,,At Level 19, the game reaches a punishing speed.
+Dialogue: 0,0:47:10.21,0:47:13.39,Default,,0,0,0,,The pieces begin to fall as though the player were constantly pushing down,
+Dialogue: 0,0:47:14.66,0:47:17.63,Default,,0,0,0,,taking less than 2/3 of a second to reach the bottom.
+Dialogue: 0,0:47:19.10,0:47:23.67,Default,,0,0,0,,The Tetris Master can only survive by taking control of the piece during its brief entry delay:
+Dialogue: 0,0:47:24.57,0:47:28.87,Default,,0,0,0,,...the 1/6 of a second between one piece landing and the next appearing at the top.
 Dialogue: 0,0:47:29.41,0:47:34.72,Default,,0,0,0,,Right when I know the piece is done, I'm already pressing the D-pad,
 Dialogue: 0,0:47:34.72,0:47:38.40,Default,,0,0,0,,so by the time it comes out, it's already moving in that direction.
 Dialogue: 0,0:47:40.20,0:47:45.39,Default,,0,0,0,,Once you get past the panic and you realize that you're probably pushing way too hard
@@ -843,27 +843,27 @@ Dialogue: 0,0:53:45.02,0:53:47.37,Default,,0,0,0,,in that speed. I mean that's w
 Dialogue: 0,0:53:47.37,0:53:50.65,Default,,0,0,0,,but, you know what, honestly... what, we're like five days away?
 Dialogue: 0,0:53:50.65,0:53:54.15,Default,,0,0,0,,I mean, I really hope Thor proves me wrong.
 Dialogue: 0,0:53:54.90,0:53:58.62,Default,,0,0,0,,Robin has just found out that Thor has finally arrived.
-Comment: 0,0:53:59.77,0:54:00.10,Default,,0,0,0,,Great.
+Dialogue: 0,0:53:59.77,0:54:00.10,Default,,0,0,0,,Great.
 Dialogue: 0,0:54:00.10,0:54:02.20,Default,,0,0,0,,They've agreed to meet for the first time in 20 years
 Dialogue: 0,0:54:02.20,0:54:05.17,Default,,0,0,0,,here at the production's homebase in Laguna Beach, California.
 Dialogue: 0,0:54:05.17,0:54:06.57,Default,,0,0,0,,Where is he?
-Comment: 0,0:54:07.05,0:54:09.02,Default,,0,0,0,,[smalltalk not audible]
-Comment: 0,0:54:09.25,0:54:12.12,Default,,0,0,0,,[smalltalk not audible]
+Dialogue: 0,0:54:07.05,0:54:09.02,Default,,0,0,0,,[smalltalk not audible]
+Dialogue: 0,0:54:09.25,0:54:12.12,Default,,0,0,0,,[smalltalk not audible]
 Dialogue: 0,0:54:12.27,0:54:16.00,Default,,0,0,0,,20 years later! You've turned into a man!
 Dialogue: 0,0:54:16.52,0:54:17.15,Default,,0,0,0,,How you doing?
 Dialogue: 0,0:54:17.15,0:54:18.52,Default,,0,0,0,,- We've both grown a little bit!
 Dialogue: 0,0:54:18.52,0:54:19.45,Default,,0,0,0,,Yeah, yeah.
-Comment: 0,0:54:19.45,0:54:21.85,Default,,0,0,0,,[smalltalk]
+Dialogue: 0,0:54:19.45,0:54:21.85,Default,,0,0,0,,[smalltalk]
 Dialogue: 0,0:54:21.85,0:54:23.47,Default,,0,0,0,,I mean you're out of it, right?
-Comment: 0,0:54:23.47,0:54:26.55,Default,,0,0,0,,...you have all these people like, whispering about you
-Comment: 0,0:54:26.55,0:54:30.92,Default,,0,0,0,,and, you know, the fact that you don't have it taped just infuriates them.
-Comment: 0,0:54:30.92,0:54:33.22,Default,,0,0,0,,They're like, why wouldn't he tape it if he can get to 30?
-Comment: 0,0:54:33.22,0:54:35.70,Default,,0,0,0,,That's kinda my idea in some ways.
+Dialogue: 0,0:54:23.47,0:54:26.55,Default,,0,0,0,,...you have all these people like, whispering about you
+Dialogue: 0,0:54:26.55,0:54:30.92,Default,,0,0,0,,and, you know, the fact that you don't have it taped just infuriates them.
+Dialogue: 0,0:54:30.92,0:54:33.22,Default,,0,0,0,,They're like, why wouldn't he tape it if he can get to 30?
+Dialogue: 0,0:54:33.22,0:54:35.70,Default,,0,0,0,,That's kinda my idea in some ways.
 Dialogue: 0,0:54:35.92,0:54:42.20,Default,,0,0,0,,Do you feel any responsibility to like... people that like see this game as a "religion?"
 Dialogue: 0,0:54:42.20,0:54:44.77,Default,,0,0,0,,To like, just show what is possibile?
-Comment: 0,0:54:44.97,0:54:48.97,Default,,0,0,0,,I had a massive accident in '96.
-Comment: 0,0:54:49.00,0:54:54.85,Default,,0,0,0,,You know, they took a big chunk of my skull out because it was all rammed into my brain.
-Comment: 0,0:54:54.85,0:54:57.87,Default,,0,0,0,,I was in a coma for a while.
+Dialogue: 0,0:54:44.97,0:54:48.97,Default,,0,0,0,,I had a massive accident in '96.
+Dialogue: 0,0:54:49.00,0:54:54.85,Default,,0,0,0,,You know, they took a big chunk of my skull out because it was all rammed into my brain.
+Dialogue: 0,0:54:54.85,0:54:57.87,Default,,0,0,0,,I was in a coma for a while.
 Dialogue: 0,0:54:57.87,0:55:00.02,Default,,0,0,0,,Do you think that affected your game at all?
 Dialogue: 0,0:55:00.02,0:55:01.70,Default,,0,0,0,,Oh yeah, it affected everything.
 Dialogue: 0,0:55:02.47,0:55:06.50,Default,,0,0,0,,Sometimes, you know, things are just blank in my head.
@@ -883,15 +883,15 @@ Dialogue: 0,0:55:56.92,0:56:00.07,Default,,0,0,0,,He's already flipped the score
 Dialogue: 0,0:56:04.00,0:56:05.00,Default,,0,0,0,,Wait, wait, wait.
 Dialogue: 0,0:56:05.00,0:56:08.12,Default,,0,0,0,,Ohh!?
 Dialogue: 0,0:56:08.25,0:56:09.42,Default,,0,0,0,,There it is!
-Comment: 0,0:56:11.97,0:56:17.15,Default,,0,0,0,,*applause*
+Dialogue: 0,0:56:11.97,0:56:17.15,Default,,0,0,0,,*applause*
 Dialogue: 0,0:56:16.97,0:56:19.62,Default,,0,0,0,,Oh, wait wait wait, let's see the high score on the screen here.
-Comment: 0,0:56:19.62,0:56:21.02,Default,,0,0,0,,[something] touch it?
+Dialogue: 0,0:56:19.62,0:56:21.02,Default,,0,0,0,,[something] touch it?
 Dialogue: 0,0:56:25.65,0:56:32.32,Default,,0,0,0,,Having been reluctant to play any Tetris since arriving, Thor suddenly decides to break both records.
 Dialogue: 0,0:56:32.57,0:56:35.32,Default,,0,0,0,,We gotta get Kelly, uh, Thor's about to break the world record now.
-Comment: 0,0:56:35.97,0:56:37.12,Default,,0,0,0,,How many times have you flipped it?
-Comment: 0,0:56:37.57,0:56:38.50,Default,,0,0,0,,- Just once.
-Comment: 0,0:56:38.75,0:56:41.35,Default,,0,0,0,,It takes a long time to flip it just once.
-Comment: 0,0:56:41.35,0:56:45.67,Default,,0,0,0,,Thor, thank you for allowing my record to stand for three hours.
+Dialogue: 0,0:56:35.97,0:56:37.12,Default,,0,0,0,,How many times have you flipped it?
+Dialogue: 0,0:56:37.57,0:56:38.50,Default,,0,0,0,,- Just once.
+Dialogue: 0,0:56:38.75,0:56:41.35,Default,,0,0,0,,It takes a long time to flip it just once.
+Dialogue: 0,0:56:41.35,0:56:45.67,Default,,0,0,0,,Thor, thank you for allowing my record to stand for three hours.
 Dialogue: 0,0:56:45.67,0:56:47.70,Default,,0,0,0,,What is... I don't even know what my record is!
 Dialogue: 0,0:56:47.70,0:56:48.77,Default,,0,0,0,,11...
 Dialogue: 0,0:56:48.77,0:56:50.90,Default,,0,0,0,,1238! Nice! Ah, he'll never get there.
@@ -899,7 +899,7 @@ Dialogue: 0,0:56:51.10,0:56:54.77,Default,,0,0,0,,Let me tell you the story of t
 Dialogue: 0,0:56:56.20,0:56:59.20,Default,,0,0,0,,It all began with World War I...
 Dialogue: 0,0:56:59.47,0:57:02.82,Default,,0,0,0,,Thor has been playing for over two hours.
 Dialogue: 0,0:57:03.07,0:57:05.45,Default,,0,0,0,,He has smashed both world records.
-Comment: 0,0:57:05.65,0:57:06.70,Default,,0,0,0,,Suicide!
+Dialogue: 0,0:57:05.65,0:57:06.70,Default,,0,0,0,,Suicide!
 Dialogue: 0,0:57:09.37,0:57:10.97,Default,,0,0,0,,Congratulations!
 Dialogue: 0,0:57:11.10,0:57:11.90,Default,,0,0,0,,Good work, Thor.
 Dialogue: 0,0:57:11.97,0:57:13.17,Default,,0,0,0,,Good game, Thor.
@@ -929,8 +929,8 @@ Dialogue: 0,0:58:34.97,0:58:37.72,Default,,0,0,0,,and a brand new Geo LSI conver
 Dialogue: 0,0:58:37.72,0:58:39.87,Default,,0,0,0,,Like, I wanted to give the car to my brother but we had to sell it...
 Dialogue: 0,0:58:40.25,0:58:43.47,Default,,0,0,0,,um... we had to cash the savings bond in and all this other stuff.
 Dialogue: 0,0:58:43.47,0:58:45.62,Default,,0,0,0,,So, it was more like relief than anything else.
-Comment: 0,0:58:45.62,0:58:47.77,Default,,0,0,0,,It's been a long trip, but I'm glad it's over,
-Comment: 0,0:58:47.77,0:58:49.20,Default,,0,0,0,,but I'm glad I won, too.
+Dialogue: 0,0:58:45.62,0:58:47.77,Default,,0,0,0,,It's been a long trip, but I'm glad it's over,
+Dialogue: 0,0:58:47.77,0:58:49.20,Default,,0,0,0,,but I'm glad I won, too.
 Dialogue: 0,0:58:51.40,0:58:53.85,Default,,0,0,0,,I didn't really have anything left over from the fire,
 Dialogue: 0,0:58:54.10,0:58:56.67,Default,,0,0,0,,but I did have a little metal box that survived,
 Dialogue: 0,0:58:56.80,0:58:59.12,Default,,0,0,0,,and what was in it but Micro Machines!
@@ -953,13 +953,13 @@ Dialogue: 0,1:00:10.20,1:00:12.30,Default,Alex; Jonas,0,0,0,,- Jonas; it's a ple
 Dialogue: 0,1:00:12.30,1:00:13.52,Default,,0,0,0,,What's up, yo!
 Dialogue: 0,1:00:13.52,1:00:14.96,Default,Ben; Jesse,0,0,0,,Good to meet you!
 Dialogue: 0,1:00:13.52,1:00:14.96,Default,Ben; Jesse,0,0,0,,- You too, man!
-Comment: 0,1:00:14.96,1:00:17.98,Default,,0,0,0,,[indistinct chatter]
+Dialogue: 0,1:00:14.96,1:00:17.98,Default,,0,0,0,,[indistinct chatter]
 Dialogue: 0,1:00:17.98,1:00:22.26,Default,,0,0,0,,We hung out at a mall and played Mortal Kombat for a couple hours.
-Comment: 0,1:00:22.26,1:00:26.98,Default,,0,0,0,,I can't really imagine a person being too much better than Jonas.
-Comment: 0,1:00:27.74,1:00:31.46,Default,,0,0,0,,Yeah, I've been watching him, he's just about as good as it can get.
-Comment: 0,1:00:39.18,1:00:40.90,Default,,0,0,0,,I'm hurting right now
-Comment: 0,1:00:40.90,1:00:42.90,Default,,0,0,0,,It's because Jonas scored that high, that's why.
-Comment: 0,1:00:44.54,1:00:45.36,Default,,0,0,0,,It bothers me.
+Dialogue: 0,1:00:22.26,1:00:26.98,Default,,0,0,0,,I can't really imagine a person being too much better than Jonas.
+Dialogue: 0,1:00:27.74,1:00:31.46,Default,,0,0,0,,Yeah, I've been watching him, he's just about as good as it can get.
+Dialogue: 0,1:00:39.18,1:00:40.90,Default,,0,0,0,,I'm hurting right now
+Dialogue: 0,1:00:40.90,1:00:42.90,Default,,0,0,0,,It's because Jonas scored that high, that's why.
+Dialogue: 0,1:00:44.54,1:00:45.36,Default,,0,0,0,,It bothers me.
 Dialogue: 0,1:00:45.36,1:00:47.78,Default,,0,0,0,,You know, the Tetris players that are here right now
 Dialogue: 0,1:00:47.78,1:00:53.80,Default,,0,0,0,,are going to shatter any possible idea of what people thought could be obtained in Tetris.
 Dialogue: 0,1:00:53.80,1:00:55.80,Default,,0,0,0,,I used to play the original arcade version,
@@ -991,8 +991,8 @@ Dialogue: 0,1:02:08.28,1:02:09.74,Default,Jonas; Thor,0,0,0,,The center well?
 Dialogue: 0,1:02:08.28,1:02:09.74,Default,Jonas; Thor,0,0,0,,- Yeah
 Dialogue: 0,1:02:09.90,1:02:10.76,Default,,0,0,0,,Call
 Dialogue: 0,1:02:11.48,1:02:12.90,Default,,0,0,0,,One down, one up.
-Comment: 0,1:02:12.90,1:02:13.62,Default,,0,0,0,,[???] (Flop?)
-Comment: 0,1:02:13.62,1:02:15.50,Default,,0,0,0,,[???]
+Dialogue: 0,1:02:12.90,1:02:13.62,Default,,0,0,0,,[???] (Flop?)
+Dialogue: 0,1:02:13.62,1:02:15.50,Default,,0,0,0,,[???]
 Dialogue: 0,1:02:15.50,1:02:16.72,Default,,0,0,0,,Survey says...
 Dialogue: 0,1:02:18.52,1:02:20.16,Default,,0,0,0,,Stick a white in there, Kelly.
 Dialogue: 0,1:02:20.16,1:02:21.42,Default,,0,0,0,,If you want to stay...
@@ -1004,12 +1004,12 @@ Dialogue: 0,1:02:34.60,1:02:36.60,Default,,0,0,0,,...cherry coke. Trips.
 Dialogue: 0,1:02:37.66,1:02:40.16,Default,,0,0,0,,So do I... King high!
 Dialogue: 0,1:02:40.74,1:02:46.46,Default,,0,0,0,,Boom baby! Boom! That's right, now you're in my house bitch!
 Dialogue: 0,1:02:46.46,1:02:47.40,Default,,0,0,0,,Yeah!
-Comment: 0,1:02:47.40,1:02:48.34,Default,,0,0,0,,[???] (Is ??? taping?)
+Dialogue: 0,1:02:47.40,1:02:48.34,Default,,0,0,0,,[???] (Is ??? taping?)
 Dialogue: 0,1:02:48.90,1:02:53.76,Default,,0,0,0,,I couldn't contain my excitement. It was an absolutely incredible moment.
 Dialogue: 0,1:02:53.76,1:02:57.60,Default,,0,0,0,,Kind of felt like some basketball player that goes up to the hoop, --
 Dialogue: 0,1:02:57.60,1:03:01.62,Default,,0,0,0,,boom! -- dunks on Shaquille O'Neal. Take that!
 Dialogue: 0,1:03:01.62,1:03:04.34,Default,,0,0,0,,That's right, it's my home now!
-Comment: 0,1:03:04.34,1:03:09.84,Default,,0,0,0,,Somebody's gonna like, pull a Tonya Harding and break everybody's thumbs...
+Dialogue: 0,1:03:04.34,1:03:09.84,Default,,0,0,0,,Somebody's gonna like, pull a Tonya Harding and break everybody's thumbs...
 Dialogue: 0,1:03:09.84,1:03:11.84,Default,,0,0,0,,and they're like the only one left.
 Dialogue: 0,1:03:11.84,1:03:13.52,Default,,0,0,0,,If anyone would do that here I think it would be Ben.
 Dialogue: 0,1:03:13.52,1:03:17.34,Default,,0,0,0,,Yeah, I've already actually broken Harry's, he's on the way to the doctor right now.
@@ -1017,7 +1017,7 @@ Dialogue: 0,1:03:17.34,1:03:20.58,Default,,0,0,0,,So, you don't do... you don't 
 Dialogue: 0,1:03:20.58,1:03:21.84,Default,,0,0,0,,- Well, I do now.
 Dialogue: 0,1:03:21.84,1:03:26.98,Default,Ben; Dana,0,0,0,,I think... Harry's 808 video online doesn't use both buttons.
 Dialogue: 0,1:03:21.84,1:03:26.98,Default,Ben; Dana,0,0,0,,- Yeah. He and I talked about it.
-Comment: 0,1:03:26.98,1:03:30.62,Default,,0,0,0,,I actually noticed that Harry builds on the left side, which is interesting.
+Dialogue: 0,1:03:26.98,1:03:30.62,Default,,0,0,0,,I actually noticed that Harry builds on the left side, which is interesting.
 Dialogue: 0,1:03:30.62,1:03:31.76,Default,Dana,0,0,0,,I build on the left...
 Dialogue: 0,1:03:31.76,1:03:33.12,Default,Jonas,0,0,0,,- I feel the right side.
 Dialogue: 0,1:03:33.12,1:03:34.36,Default,,0,0,0,,I find that to be unacceptable.
@@ -1029,7 +1029,7 @@ Dialogue: 0,1:03:44.60,1:03:46.84,Default,,0,0,0,,No, you see, for my level 19+ 
 Dialogue: 0,1:03:46.84,1:03:48.12,Default,,0,0,0,,No, I know that you...
 Dialogue: 0,1:03:48.12,1:03:49.48,Default,,0,0,0,,I switch back, yeah.
 Dialogue: 0,1:03:49.48,1:03:53.94,Default,,0,0,0,,The reason I did it to the left, the gap on the left? Is because I score higher when I go to the left.
-Comment: 0,1:03:53.94,1:03:54.76,Default,,0,0,0,,[???]
+Dialogue: 0,1:03:53.94,1:03:54.76,Default,,0,0,0,,[???]
 Dialogue: 0,1:03:54.76,1:03:59.56,Default,,0,0,0,,Yeah, I've done it. Because back in the day I used to play hours and hours and hours,
 Dialogue: 0,1:03:59.56,1:04:01.88,Default,,0,0,0,,and leaving the gap... yeah.
 Dialogue: 0,1:04:01.88,1:04:03.58,Default,,0,0,0,,Good luck tomorrow, Ben, good luck.
@@ -1113,9 +1113,9 @@ Dialogue: 0,1:09:02.62,1:09:03.72,Default,,0,0,0,,If it didn't show up.
 Dialogue: 0,1:09:03.72,1:09:05.20,Default,,0,0,0,,Yeah, if it didn't even show.
 Dialogue: 0,1:09:05.20,1:09:08.15,Default,,0,0,0,,I've been really close to seven, twice.
 Dialogue: 0,1:09:08.15,1:09:10.22,Default,,0,0,0,,I can get seven.
-Comment: 0,1:09:41.32,1:09:42.85,Default,,0,0,0,,Is she in?
-Comment: 0,1:09:43.07,1:09:44.30,Default,,0,0,0,,Am I in?
-Comment: 0,1:09:44.95,1:09:46.40,Default,,0,0,0,,She did it.
+Dialogue: 0,1:09:41.32,1:09:42.85,Default,,0,0,0,,Is she in?
+Dialogue: 0,1:09:43.07,1:09:44.30,Default,,0,0,0,,Am I in?
+Dialogue: 0,1:09:44.95,1:09:46.40,Default,,0,0,0,,She did it.
 Dialogue: 0,1:09:47.40,1:09:49.05,Default,,0,0,0,,Fuck yeah!
 Dialogue: 0,1:09:51.65,1:09:52.75,Default,,0,0,0,,How are you feeling?
 Dialogue: 0,1:09:52.75,1:09:54.67,Default,,0,0,0,,Fucking awesome!!
@@ -1123,16 +1123,16 @@ Dialogue: 0,1:09:54.67,1:09:58.75,Default,,0,0,0,,Dana just edged out her friend
 Dialogue: 0,1:09:58.82,1:10:00.17,Default,,0,0,0,,Oh, I think I'm in 4th right now.
 Dialogue: 0,1:10:00.17,1:10:01.95,Default,,0,0,0,,It might just be that I got knocked out.
 Dialogue: 0,1:10:01.95,1:10:05.27,Default,,0,0,0,,He's so cute. He's the little baby Grand Master.
-Comment: 0,1:10:05.32,1:10:08.37,Default,,0,0,0,,[indistinct chatter]
+Dialogue: 0,1:10:05.32,1:10:08.37,Default,,0,0,0,,[indistinct chatter]
 Dialogue: 0,1:10:08.37,1:10:09.27,Default,,0,0,0,,Hey, guys.
 Dialogue: 0,1:10:11.07,1:10:12.80,Default,,0,0,0,,Hey, congratulations.
 Dialogue: 0,1:10:13.42,1:10:15.30,Default,,0,0,0,,Thank you, Alex.
 Dialogue: 0,1:10:15.30,1:10:18.35,Default,,0,0,0,,Top 3. It's official.
 Dialogue: 0,1:10:19.30,1:10:21.60,Default,,0,0,0,,And we have our top 8 for the finals.
-Comment: 0,1:10:27.60,1:10:32.05,Default,,0,0,0,,Hello everybody, hello Tetris fans and champions.
-Comment: 0,1:10:32.05,1:10:35.07,Default,,0,0,0,,Welcome to Tetris competition.
-Comment: 0,1:10:35.07,1:10:38.35,Default,,0,0,0,,I'm Alexey Pajitnov. I am creator of the game.
-Comment: 0,1:10:39.15,1:10:46.47,Default,,0,0,0,,I hope that everybody here will have a wonderful time, and good luck to everyone.
+Dialogue: 0,1:10:27.60,1:10:32.05,Default,,0,0,0,,Hello everybody, hello Tetris fans and champions.
+Dialogue: 0,1:10:32.05,1:10:35.07,Default,,0,0,0,,Welcome to Tetris competition.
+Dialogue: 0,1:10:35.07,1:10:38.35,Default,,0,0,0,,I'm Alexey Pajitnov. I am creator of the game.
+Dialogue: 0,1:10:39.15,1:10:46.47,Default,,0,0,0,,I hope that everybody here will have a wonderful time, and good luck to everyone.
 Dialogue: 0,1:10:49.55,1:10:54.82,Default,,0,0,0,,So, when I first met Alexey in 1989, it was February of 1989.
 Dialogue: 0,1:10:54.82,1:10:59.05,Default,,0,0,0,,He said to me: "Henk, you know, you're gonna go back and you're gonna make this game and...
 Dialogue: 0,1:10:59.05,1:11:04.22,Default,,0,0,0,,I really wanna find out who's the best player in the world."
@@ -1201,7 +1201,7 @@ Dialogue: 0,1:14:57.92,1:15:01.36,Default,,0,0,0,,Here it comes, tetris! 207 for
 Dialogue: 0,1:15:03.60,1:15:04.84,Default,,0,0,0,,Tetris for Harry!
 Dialogue: 0,1:15:04.84,1:15:07.22,Default,,0,0,0,,- 343 for Harry, wow.
 Dialogue: 0,1:15:08.06,1:15:10.50,Default,,0,0,0,,The leader is going to be... it looks like Jonas is going to be the leader of this one.
-Comment: 0,1:15:10.50,1:15:11.72,Default,,0,0,0,,[something about Ben's loss]
+Dialogue: 0,1:15:10.50,1:15:11.72,Default,,0,0,0,,[something about Ben's loss]
 Dialogue: 0,1:15:10.90,1:15:15.26,Default,,0,0,0,,Ben is out! With 249,919.
 Dialogue: 0,1:15:17.44,1:15:19.62,Default,,0,0,0,,Thor with a tetris!
 Dialogue: 0,1:15:19.62,1:15:22.60,Default,,0,0,0,,Dana needs a long piece... Dana gets it!
@@ -1243,9 +1243,9 @@ Dialogue: 0,1:17:32.58,1:17:35.10,Default,,0,0,0,,Three, two, one,
 Dialogue: 0,1:17:35.10,1:17:36.32,Default,,0,0,0,,Go!
 Dialogue: 0,1:17:35.10,1:17:36.32,Default,,0,0,0,,- Tetris time!
 Dialogue: 0,1:17:38.06,1:17:43.14,Default,,0,0,0,,Again, points matter. So we're going to be looking for lots of strategy to get those tetrises.
-Comment: 0,1:17:43.14,1:17:45.14,Default,Chris Tang,0,0,0,,[some stuff????]
+Dialogue: 0,1:17:43.14,1:17:45.14,Default,Chris Tang,0,0,0,,[some stuff????]
 Dialogue: 0,1:17:43.80,1:17:49.84,Default,,0,0,0,,Ben burns off a double and follows with a tetris, beautiful, and another tetris for Ben! 221!
-Comment: 0,1:17:49.84,1:17:51.84,Default,Pat Contri,0,0,0,,[indistinct]
+Dialogue: 0,1:17:49.84,1:17:51.84,Default,Pat Contri,0,0,0,,[indistinct]
 Dialogue: 0,1:17:51.84,1:17:55.02,Default,,0,0,0,,Matt and Dana are keeping a good pace to challenge Harry and Jonas.
 Dialogue: 0,1:17:55.02,1:17:57.30,Default,,0,0,0,,Dana is living a little dangerously now.
 Dialogue: 0,1:17:58.38,1:18:00.86,Default,,0,0,0,,Another tetris for Dana, 191.
